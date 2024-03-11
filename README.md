@@ -1,0 +1,2 @@
+# RightsMate
+Final Year Project
