@@ -1,4 +1,3 @@
 # RightsMate
-1.Developed a multilingual virtual assistant chatbot for legal guidance on Indian fundamental rights. 
-2.Leveraged advanced technologies like Natural Language Processing tasks, RAG model, Llama3 LLM, 
-and FAISS vector Db for robust backend functionality. 
+The project aims to address the challenge of limited legal information access in India by creating an innovative virtual assistant chatbot. It will provide legal guidance on fundamental rights within India's constitutional framework through both voice and text interfaces, with multilingual support including translation to Kannada. Key features include compiling relevant laws, simplifying legal language, categorizing legal rights, and interactive design. The technological stack includes HTML, CSS, JavaScript, and Streamlit for the front end, and advanced technologies like Natural Language Processing, Retrieval Augmented Generation (RAG) model, Llama3 LLM model, sentence transformers embeddings models, and FAISS vector Db for the backend. The project aims for effectiveness, accessibility, innovation, scalability, and impact, fostering heightened legal awareness, improved access to justice, and empowering citizens with a profound understanding of their legal rights for a more informed and just society.
+
